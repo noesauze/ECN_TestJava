@@ -7,3 +7,5 @@ lang: fr
 ---
 
 Ce repository sert à apprendre à utiliser GIT et Java.
+₂⁴ǧκń
+Ŋőε
